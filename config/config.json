@@ -1,16 +1,22 @@
 {
   "development": {
-    "database": "express_auth_development",
+    "username": "gensc",
+    "password": 123,
+    "database": "auth_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "database": "express_auth_test",
+    "username": "gensc",
+    "password": 123,
+    "database": "auth_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "database": "express_auth_production",
+    "username": "gensc",
+    "password": 123,
+    "database": "auth_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
